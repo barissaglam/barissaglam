@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hi! I'm Baris👋 </h2>
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=barissaglam&show_icons=true&theme=radical" style="max-width: 100%;">
 
-<!--
-**barissaglam/barissaglam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android Engineer and working currently at <a href="http://www.hepsiburada.com"> Hepsiburada </a> in Turkey. I'm a tech-savvy, analytical thinker, problem solver. Thank You for taking the time to view my GitHub Profile :smile:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻  I'm working to improve my technical skill
+
+- 🌱. I'm trying to learn more about Android and Kotlin
+
+- 💬  Talk to me about anything
+
+<h2> Connect with me </h2>
+<a href = 'https://www.linkedin.com/in/barissaglam'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/1barissaglam'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/barissaglam'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
